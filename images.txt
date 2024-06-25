@@ -1,1 +1,1 @@
-funcman/115pc:latest
+pihole/pihole:latest
