@@ -1,4 +1,1 @@
-xiaoyaliu/alist                      
-xiaoyaliu/glue
-xiaoya_jf
-funcman/115pc
+funcman/115pc:latest
